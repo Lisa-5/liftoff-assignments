@@ -31,7 +31,9 @@ Hibernate
 
 ### What I'll Have to Learn
 -Learning how to use APIs 
+
 -Building an app (putting everything we’ve learned together)
+
 -How to create a rating system for a website/app
 
 ### Project Tracker

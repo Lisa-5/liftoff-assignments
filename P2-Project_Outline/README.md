@@ -35,4 +35,4 @@ Hibernate
 -How to create a rating system for a website/app
 
 ### Project Tracker
-Link to your Trello board here  https://trello.com/b/hClCiUKm/kanban-template
+https://trello.com/b/hClCiUKm/kanban-template

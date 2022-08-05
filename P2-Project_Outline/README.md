@@ -7,7 +7,7 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+Have you ever watched a movie or anime and witnessed something triggering and thought: “I wish I had been warned about this”? With our app, not only can you create, edit, and delete reviews, you can also search and add trigger warnings and category tags to filter results. Similar to the website, doesthedogdie.com, for avoiding common and more niche triggers.
 ### Features
 Include Features here
 ### Technologies

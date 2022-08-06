@@ -13,7 +13,7 @@ Have you ever watched a movie or anime and witnessed something triggering and th
 
 -Create and validate a login account to allow you to securely share your experience.
 
--Suggest a new categories if the one you desire is not available.
+-Suggest new categories if the one you desire is not available.
 
 -Search our database of movies and anime to see what other users think.
 
